@@ -8,9 +8,6 @@ NDK_DEBUG=1
 APP_PLATFORM=android-28
 NDK_OUT=C:/Users/kykint/ApkProjects/yoru/app/build/intermediates/ndkBuild/debug/obj
 NDK_LIBS_OUT=C:\Users\kykint\ApkProjects\yoru\app\build\intermediates\ndkBuild\debug\lib
-APP_SHORT_COMMANDS=false
-LOCAL_SHORT_COMMANDS=false
--B
--n
+C:/Users/kykint/ApkProjects/yoru/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libLoadingProcess.so
 jvmArgs : 
 
