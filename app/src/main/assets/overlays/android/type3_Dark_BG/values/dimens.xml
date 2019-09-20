@@ -38,7 +38,7 @@
     <dimen name="notification_header_icon_size_ambient">20.0dip</dimen>
     <dimen name="notification_header_margin_bottom">0.0dip</dimen>
     <dimen name="notification_header_margin_top_ambient">3.0dip</dimen>
-    <dimen name="notification_header_padding_bottom">16.0dip</dimen>
+    <dimen name="notification_header_padding_bottom">11.0dip</dimen>
     <dimen name="notification_header_padding_top">16.0dip</dimen>
     <dimen name="notification_header_separating_margin">2.0dip</dimen>
     <dimen name="notification_header_shrink_min_width">72.0dip</dimen>
